@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main(void) {
+    printf("はちみつ食べたいなあ\n");
+    return 0;
+}
